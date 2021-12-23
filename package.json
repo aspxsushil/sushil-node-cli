@@ -11,5 +11,8 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "repository": "xyz"
+    "repository": "https://github.com/aspxsushil/sushil-node-cli.git",
+    "dependencies": {
+        "chalk": "^4.0.0"
+    }
 }
