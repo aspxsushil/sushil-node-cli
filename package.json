@@ -1,7 +1,12 @@
 {
     "name": "sushil",
     "version": "2.0.1",
+    "description": "A package to know about sushil",
     "bin": {
         "sushil": "index.js"
-    }
+    },
+    "keywords": ["sushil ghimire","sushil"],
+    "license": "MIT",
+    "main":"index.js",
+    "repository": "xyz"
 }
